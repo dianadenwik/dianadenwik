@@ -26,5 +26,9 @@
 - Basics of Artificial Intelligence
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dianadenwik=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
  
