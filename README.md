@@ -26,9 +26,9 @@
 - Basics of Artificial Intelligence
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dianadenwik=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dianadenwik=anuraghazra)]((https://github.com/dianadenwik/dianadenwik.git))
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=dianadenwik&theme=tokyonight)](https://git.io/streak-stats)
 
  
