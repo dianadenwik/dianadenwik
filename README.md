@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**dianadenwik/dianadenwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0920F7&background=84ACFF00&width=435&lines=Hi%2C+I'm+Diana;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on becoming friends with Git… we’re not besties yet 😄
+- 🌱 I’m currently learning web development fundamentals at HackYourFuture.
+- 🤔 I’m looking for help with code (and confidence 😄)
+- 💬 Ask me about marketing + how I switched to tech
+- 📫 How to reach me: GitHub: @dianadenwik
+- 😄 Pronouns: she/her
+
+
+### 🔎 Interests
+ - Marketing & tech
+ - Personal growth
+ - Exploring how things work
+
+
+### 🛠 Technologies I want to learn
+- JavaScript (fundamentals and beyond)
+- HTML & CSS
+- Git & GitHub
+- React
+- Basics of Artificial Intelligence
+
+
+
+ 
