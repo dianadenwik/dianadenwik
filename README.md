@@ -23,6 +23,4 @@ Portfolio (demo) — my personal portfolio, built step by step during the progra
 JavaScript  TypeScript  React  Next.js  Tailwind  CSS  Git/GitHub  Vitest
 Meta Ads  campaign analytics
 
-📫 Reach me
-LinkedIn https://www.linkedin.com/in/diana-chukhrai-630aaa264/?isSelfProfile=true
-dianadenwik@gmail.com
+
