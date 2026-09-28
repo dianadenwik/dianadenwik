@@ -4,31 +4,24 @@
 
 
 
-- 🔭 I’m currently working on becoming friends with Git… we’re not besties yet 😄
-- 🌱 I’m currently learning web development fundamentals at HackYourFuture.
-- 🤔 I’m looking for help with code (and confidence 😄)
-- 💬 Ask me about marketing + how I switched to tech
-- 📫 How to reach me: GitHub: @dianadenwik
-- 😄 Pronouns: she/her
+Hi, I'm Diana 👋
 
+Performance marketer who also writes code.
+I run Meta Ads campaigns and build web apps with React / Next.js. Based in the Netherlands 🇳🇱
 
-### 🔎 Interests
- - Marketing & tech
- - Personal growth
- - Exploring how things work
+📈 2+ years of Meta Ads experience — campaign launching, creative and landing page testing
+🎓 Graduated from HackYourFuture NL — a 10-month frontend development program (cohort c55)
+🛠️ I love the detail work: finding the one broken thing in a big system
 
+🚀 Projects
+Loc — a local events app for the whole Netherlands (HYF final team project). Built the frontend: search, filters, event pages, auth, profile, admin panel
+24 Borders (demo) — a travel diary with search/sort across all countries, using the REST Countries API
+Portfolio (demo) — my personal portfolio, built step by step during the program
 
-### 🛠 Technologies I want to learn
-- JavaScript (fundamentals and beyond)
-- HTML & CSS
-- Git & GitHub
-- React
-- Basics of Artificial Intelligence
+🧰 Stack
 
+JavaScript TypeScript React Next.js Tailwind CSS Git/GitHub Vitest
+Meta Ads campaign analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dianadenwik=anuraghazra)]((https://github.com/dianadenwik/dianadenwik.git))
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dianadenwik&theme=tokyonight)](https://git.io/streak-stats)
-
- 
+📫 Reach me
+LinkedIn https://www.linkedin.com/in/diana-chukhrai-630aaa264/?isSelfProfile=true
