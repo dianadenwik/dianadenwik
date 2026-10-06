@@ -13,10 +13,13 @@ I run Meta Ads campaigns and build web apps with React / Next.js. Based in the N
 🎓 Graduated from HackYourFuture NL — a 10-month frontend development program (cohort c55)
 🛠️ I love the detail work: finding the one broken thing in a big system
 
-##🚀 Projects
-# Loc — a local events app for the whole Netherlands (HYF final team project). Built the frontend: search, filters, event pages, auth, profile, admin panel
-# 24 Borders (demo) — a travel diary with search/sort across all countries, using the REST Countries API
-# Portfolio (demo) — my personal portfolio, built step by step during the program
+🚀 Projects
+
+ Loc — a local events app for the whole Netherlands (HYF final team project). Built the frontend: search, filters, event pages, auth, profile, admin panel
+ 
+ 24 Borders (demo) — a travel diary with search/sort across all countries, using the REST Countries API
+ 
+ Portfolio (demo) — my personal portfolio, built step by step during the program
 
 🧰 Stack
 
